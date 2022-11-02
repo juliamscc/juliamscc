@@ -20,19 +20,8 @@
   <a href="https://www.linkedin.com/in/julia-meneses/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a>
-</div>
+</div>     
 
-
-<hr>
-
-      
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats)
-
-
-<hr>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats)
 
 
 <hr>
@@ -57,5 +46,12 @@
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
- <hr>
+<hr>
 
+ <p align="center">
+  <a href="https://github.com/julliamscc">
+   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats" />
+   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats" />
+  </a>
+ </p>
+<hr>
