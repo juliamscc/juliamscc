@@ -37,7 +37,7 @@
  
 <div align="center">
 
- ###💻 Tecnologias:
+ ### 💻 Tecnologias:
  
 </div>
  
