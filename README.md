@@ -5,7 +5,7 @@
  Olá, me chamo Júlia! Boas vindas ao meu perfil GitHub! :D <br>
  Hi there, I'm Júlia! Welcome to my GitHub profile! :D 
  
- <hr>
+<hr>
  
  ### 😃 Sobre mim:
 Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computação na Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Posso não ser a melhor programadora mas estou sempre procurando aprender e me aprimorar! Afinal, é importante que sempre  busquemos conhecimento 👽
@@ -15,12 +15,6 @@ Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
  ### 😃 About me:
  I'm 21 years old, I live in Floriano - PI (Brazil) and I'm a Computer Science student at Universidade Estadual do Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I may not be the best programmer but I'm always looking to learn and improve! After all, it is important that we always seek knowledge!
  
-<!-- 
-<h3> Olá, eu sou a Júlia! </h3>
-<p> 🎓 Sou acadêmica de Ciência da Computação - UESPI </p>
-<p> ⏰ Estou nesta jornada há 2 anos </p>
-<p> 📚 Estou sempre em busca de conhecimento! (busquem conhecimento 👽) </p>
--->
  <hr>
  
 <div align="center"> 
