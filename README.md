@@ -1,35 +1,36 @@
 
  <hr>
- 
- <h3> Olá, eu sou a Júlia! </h3>
- 
+<!-- 
+<h3> Olá, eu sou a Júlia! </h3>
 <p> 🎓 Sou acadêmica de Ciência da Computação - UESPI </p>
-
 <p> ⏰ Estou nesta jornada há 2 anos </p>
-
 <p> 📚 Estou sempre em busca de conhecimento! (busquem conhecimento 👽) </p>
-
+-->
  <hr>
  
 <div align="center"> 
-
- ### 👤 Contato:
+ <h3>👤 Contato / Contact:<h3/>
+<div/> 
  
-<div> 
- <div align="center">
-  <a href="https://www.linkedin.com/in/julia-meneses/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
+  <br>
+  
+<div align="center">
+ <a href="https://www.linkedin.com/in/julia-meneses/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+ </a>
+ <a href = "mailto:juliamscc@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+ </a>
 </div>     
-
 
 
 <hr>
  
- 
 <div align="center">
-  <h3>💻 Estou estudando sobre:<h3/>
+  <h3>💻 Estou estudando sobre / I'm learning about:<h3/>
 </div>
+  
+<br>
  
 <div align="center"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" alt="Ícone HTML5" title="HTML5"/>
@@ -43,6 +44,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Ícone Github" title="GITHUB"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Ícone React" title="REACT"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" alt="Ícone MySQL" title="MYSQL"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="40" height="40" alt="Ícone Android Studio" title="ANDROID STUDIO"/>
 <div/>
 
 <hr>
