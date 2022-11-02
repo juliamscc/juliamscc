@@ -11,7 +11,7 @@
 
  <hr>
  
-<div align="center"><br> 
+<div align="center"> 
 
  ### 👤 Contato:
  
@@ -28,23 +28,22 @@
  
  
 <div align="center">
-
- ### 💻 Tecnologias:
- 
+  <h3>💻 Estou estudando sobre:<h3/>
 </div>
  
- 
-<div align="center"><br>
-  <img align="center" alt="jovius-dsg-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="jovius-dsg-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="jovius-dsg-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="jovius-dsg-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="jovius-dsg-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
-  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
-  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
+<div align="center"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" alt="Ícone HTML5" title="HTML5"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" alt="Ícone CSS3" title="CSS3"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="Ícone Javascript" title="JAVASCRIPT"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="Ícone PHP" title="PHP"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Ícone Java" title="JAVA"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" width="40" height="40" alt="Ícone C" title="C"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Ícone Python" title="PYTHON"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" alt="Ícone Git" title="GIT"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Ícone Github" title="GITHUB"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Ícone React" title="REACT"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" alt="Ícone MySQL" title="MYSQL"/>
+<div/>
 
 <hr>
 
