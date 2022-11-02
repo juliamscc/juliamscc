@@ -64,4 +64,7 @@ Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliamscc&layout=compact&langs_count=8&theme=dracula"/>
   </a>
  </p>
+ 
 <hr>
+ 
+ ![Snake animation](https://github.com/juliamsc/juliamscc/blob/output/github-contribution-grid-snake.svg)
