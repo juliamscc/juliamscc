@@ -5,7 +5,9 @@
  
 <p> 🎓 Sou acadêmica de Ciência da Computação - UESPI </p>
 
-<p> Estou nesta jornada há 2 anos, programação é o que me move. </p>
+<p> ⏰ Estou nesta jornada há 2 anos </p>
+
+<p> 📚 Estou sempre em busca de conhecimento! (busquem conhecimento 👽) </p>
 
  <hr>
  
