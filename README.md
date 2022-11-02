@@ -1,43 +1,6 @@
 
  <hr>
 
-<div align="center">
- <div>
-  <h4> SOBRE MIM 💾 </h4>
- </div>
- 
- <div>
-  <a>👨‍🎓 Eu sou João Vinicius! </a>
- </div>
- 
- <div>
-  <a>🎓 Acadêmico de Ciência da Computação</a>
- </div>
- 
- <div>
-  <a>🚀 Movido pela resolução de problemas </a>
- </div>
-</div>
- 
-<div align="center">
- 
- <div>
-  <h4> ABOUT ME 💾 </h4>
- <div>
- 
- <div> 
-  <a>👨‍🎓 I'm João Vinicius! </a>
- </div> 
- 
- <div> 
-  <a>🎓 A Computer Science Academic</a>
- </div>
-
- <div>
-  <a>🚀 Driven by problem solving</a>
- </div>
-</div>
- 
 
  <hr>
  
@@ -74,8 +37,7 @@
  
 <div align="center">
 
- <h4> LINGUAGENS E TECNOLOGIAS 💽 </h4>
- <h4> LANGUAGES AND TECHNOLOGIES 💽 <h4>
+ ###💻 Tecnologias:
  
 </div>
  
@@ -89,7 +51,8 @@
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg">
   <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg">
-  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"
+  <img align="center" alt="jovius-dsg-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg">
 
  <hr>
 
