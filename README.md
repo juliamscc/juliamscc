@@ -13,9 +13,6 @@
  
 <div align="center"><br> 
 
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/84/da/da/84dada0a5dcfd790700df3dd87897aef.gif)
-
-
  
 <div> 
  <div align="center">
@@ -28,13 +25,13 @@
 <hr>
 
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamscc&theme=radical)](https://github.com/juliamscc/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamscc&theme=dark)](https://github.com/juliamscc/github-readme-stats)
 
 
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=radical)](https://github.com/juliamscc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=dark)](https://github.com/juliamscc/github-readme-stats)
 
 
 <hr>
