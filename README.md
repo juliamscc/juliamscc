@@ -1,6 +1,8 @@
 
  <hr>
-### Olá, eu sou a Júlia!
+ 
+ <h3> Olá, eu sou a Júlia! </h3>
+ 
 <p> 🎓 Sou acadêmica de Ciência da Computação - UESPI </p>
 
 <p> Estou nesta jornada há 2 anos, programação é o que me move. </p>
