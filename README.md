@@ -25,13 +25,13 @@
 <hr>
 
       
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamscc&theme=dark)](https://github.com/juliamscc/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats)
 
 
 <hr>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=dark)](https://github.com/juliamscc/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats)
 
 
 <hr>
