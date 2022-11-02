@@ -49,8 +49,8 @@
 
  <p align="center">
   <a href="https://github.com/julliamscc">
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats" />
-   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&theme=dracula)](https://github.com/juliamscc/github-readme-stats" />
+   <img heigth="180em" src="https://github-readme-stats.vercel.app/api?username=juliamscc&show_icons=true&theme=panda)](https://github.com/juliamscc/github-readme-stats"/>
+   <img heigth="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliamscc&layout=compact&theme=panda)](https://github.com/juliamscc/github-readme-stats"/>
   </a>
  </p>
 <hr>
