@@ -1,5 +1,19 @@
 
  <hr>
+ 
+ ### 👋 Hello World!
+ Olá, me chamo Júlia! Boas vindas ao meu perfil GitHub! :D <br>
+ Hi there, I'm Júlia! Welcome to my GitHub profile! :D 
+ 
+ <br>
+ 
+ ### 😃 Sobre mim:
+ Tenho 21 anos, moro em Floriano - PI e curso o 5° bloco de Ciências da Computação na Universidade Estadual do Piauí.
+ 
+ <br>
+ 
+ ### 😃 About me:
+ 
 <!-- 
 <h3> Olá, eu sou a Júlia! </h3>
 <p> 🎓 Sou acadêmica de Ciência da Computação - UESPI </p>
