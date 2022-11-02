@@ -8,8 +8,8 @@
  <br>
  
  ### 😃 Sobre mim:
- Tenho 21 anos, moro em Floriano - PI e curso o 5° bloco de Ciências da Computação na Universidade Estadual do Piauí.
- 
+Tenho 21 anos, moro em Floriano - PI e curso o 5° bloco de Ciências da Computação na Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Posso não ser a melhor programadora mas estou sempre procurando aprender e me aprimorar! Afinal, é importante que sempre  busquemos conhecimento 👽
+
  <br>
  
  ### 😃 About me:
@@ -23,7 +23,7 @@
  <hr>
  
 <div align="center"> 
- <h3>👤 Contato / Contact:<h3/>
+ <h3> 👤 Contato / Contact: <h3/>
 <div/> 
  
   <br>
@@ -41,9 +41,9 @@
 <hr>
  
 <div align="center">
-  <h3>💻 Estou estudando sobre / I'm learning about:<h3/>
+  <h3> 💻 Estou estudando sobre / I'm learning about: <h3/>
 </div>
-  
+ 
 <br>
  
 <div align="center"> 
