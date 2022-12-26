@@ -70,4 +70,4 @@ Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
  
 <hr>
  
-![Snake animation](https://github.com/juliamsc/juliamscc/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/juliamsc/juliamscc/blob/output/github-contribution-grid-snake.svg)-->
