@@ -1,9 +1,12 @@
-
- <hr>
+<hr>
  
- ### 👋 Hello World!
+ <h3> 👋 Hello World! </h3>
  Olá, me chamo Júlia! Boas vindas ao meu perfil GitHub! :D <br>
- Hi there, I'm Júlia! Welcome to my GitHub profile! :D 
+ Hi there, I'm Júlia! Welcome to my GitHub profile! :D
+ 
+ <div align="center">
+   <img src="junya.gif" target="_blank" width="300" height="300" alt="Gif moça digitando">
+ </div>
  
 <hr>
  
@@ -18,8 +21,8 @@ Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
  <hr>
  
 <div align="center"> 
- <h3> 👤 Contato / Contact: <h3/>
-<div/> 
+ <h3> 👤 Contato / Contact: </h3>
+</div> 
  
   <br>
   
@@ -36,7 +39,7 @@ Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
 <hr>
  
 <div align="center">
-  <h3> 💻 Estou estudando sobre / I'm learning about: <h3/>
+  <h3> 💻 Estou estudando sobre / I'm learning about: </h3>
 </div>
  
 <br>
@@ -54,7 +57,7 @@ Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Ícone React" title="REACT"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" alt="Ícone MySQL" title="MYSQL"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="40" height="40" alt="Ícone Android Studio" title="ANDROID STUDIO"/>
-<div/>
+</div>
 
 <hr>
 
