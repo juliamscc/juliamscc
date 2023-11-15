@@ -11,7 +11,7 @@
 <hr>
  
  ### 😃 Sobre mim:
-Tenho 21 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computação na Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Posso não ser a melhor programadora mas estou sempre procurando aprender e me aprimorar! Afinal, é importante que sempre  busquemos conhecimento 👽
+Tenho 22 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computação na Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Posso não ser a melhor programadora mas estou sempre procurando aprender e me aprimorar! Afinal, é importante que sempre  busquemos conhecimento 👽
 
  <br>
  
