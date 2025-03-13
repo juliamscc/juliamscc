@@ -55,7 +55,7 @@ Tenho 22 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" alt="Ícone Git" title="GIT"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Ícone Github" title="GITHUB"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="Ícone React" title="REACT"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" alt="Ícone MySQL" title="MYSQL"/>
+<!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" width="40" height="40" alt="Ícone MySQL" title="MYSQL"/> -->
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="40" height="40" alt="Ícone Android Studio" title="ANDROID STUDIO"/>
 </div>
 
