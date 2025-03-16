@@ -16,7 +16,7 @@ Tenho 23 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computaç�
  <br>
  
  ### 😃 About me:
- I'm 21 years old, I live in Floriano - PI (Brazil) and I'm a Computer Science student at Universidade Estadual do Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I may not be the best programmer but I'm always looking to learn and improve! After all, it is important that we always seek knowledge!
+ I'm 23 years old, I live in Floriano - PI (Brazil) and I'm a Computer Science student at Universidade Estadual do Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I may not be the best programmer but I'm always looking to learn and improve! After all, it is important that we always seek knowledge!
  
  <hr>
  
