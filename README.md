@@ -11,12 +11,12 @@
 <hr>
  
  ### 😃 Sobre mim:
-Tenho 23 anos, moro em Floriano - PI e sou acadêmica de Ciências da Computação na Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Posso não ser a melhor programadora mas estou sempre procurando aprender e me aprimorar! Afinal, é importante que sempre  busquemos conhecimento 👽
+Tenho 23 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação pela Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Estou sempre procurando aprender e me aprimorar afinal, é importante que sempre busquemos conhecimento! 👽
 
  <br>
  
  ### 😃 About me:
- I'm 23 years old, I live in Floriano - PI (Brazil) and I'm a Computer Science student at Universidade Estadual do Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I may not be the best programmer but I'm always looking to learn and improve! After all, it is important that we always seek knowledge!
+ I'm 23 years old, I live in Floriano - PI (Brazil) and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
  
  <hr>
  
