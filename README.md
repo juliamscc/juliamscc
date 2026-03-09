@@ -20,15 +20,15 @@ Tenho 24 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação
  
 <hr>
  
-<div align="center"> 
- <h3> 💻 Atualmente trabalho com / I currently work with: </h3>
+<div> 
+ <h3> 💻 Atualmente trabalho com: </h3>
 </div> 
- 
-<br>
   
 Estou estudando desenvolvimento de jogos na Unity. Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades e explorar novos horizontes!
+
 <br>
-<br>
+
+<h3>💻 I currently work with:</h3>
 I'm learning game development in Unity engine. I'm currently working in personal projects to improve my habilities and explore new possibilities!
 
 
@@ -79,9 +79,6 @@ I'm learning game development in Unity engine. I'm currently working in personal
  <!-- <a href = "mailto:juliamscc@gmail.com">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
  </a> -->
- <!-- <a href = "mailto:juliamscc@gmail.com">
-  <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
- </a> -->
 </div> 
 
 <hr>
@@ -94,5 +91,3 @@ I'm learning game development in Unity engine. I'm currently working in personal
  </p>
  
 <hr>
- 
-<!-- ![Snake animation](https://github.com/juliamsc/juliamscc/blob/output/github-contribution-grid-snake.svg)-->
