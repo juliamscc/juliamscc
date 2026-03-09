@@ -18,22 +18,18 @@ Tenho 24 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação
  ### 😃 About me:
  I'm 24 years old, I live in Floriano - PI (Brazil) and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
  
- <hr>
+<hr>
  
 <div align="center"> 
  <h3> 💻 Atualmente trabalho com / I currently work with: </h3>
 </div> 
  
-  <br>
+<br>
   
-<!-- <div align="center">
- <a href="https://www.linkedin.com/in/julia-meneses/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
- </a>
- <a href = "mailto:juliamscc@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
- </a>
-</div>      -->
+Estou estudando desenvolvimento de jogos na Unity. Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades e explorar novos horizontes!
+<br>
+<br>
+I'm learning game development in Unity engine. I'm currently working in personal projects to improve my habilities and explore new possibilities!
 
 
 <hr>
@@ -47,6 +43,7 @@ Tenho 24 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação
 <div align="center"> 
  <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="Ícone C" title="C"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40" alt="Ícone Java" title="JAVA"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="Ícone Python" title="PYTHON"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" alt="Ícone HTML5" title="HTML5"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="40" height="40" alt="Ícone CSS3" title="CSS3"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" width="40" height="40" alt="Ícone PHP" title="PHP"/>
@@ -54,7 +51,7 @@ Tenho 24 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="Ícone Github" title="GITHUB"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40" alt="Ícone Figma" title="FIGMA"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="40" height="40" alt="Ícone Javascript" title="JAVASCRIPT"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="Ícone Python" title="PYTHON"/>
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-plain.svg" width="40" height="40" alt="Ícone Typescript" title="TYPESCRIPT"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg" width="40" height="40" alt="Ícone Docker" title="DOCKER"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" alt="Ícone MySQL" title="MYSQL"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg" width="40" height="40" alt="Ícone Android Studio" title="ANDROID STUDIO"/>
