@@ -10,12 +10,12 @@
  
 <hr>
  
- ### 😃 Sobre mim:
+ <h3>😃 Sobre mim:</h3>
 Tenho 24 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação pela Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Estou sempre procurando aprender e me aprimorar afinal, é importante que sempre busquemos conhecimento! 👽
 
  <br>
  
- ### 😃 About me:
+ <h3>😃 About me:</h3>
  I'm 24 years old, I live in Floriano - PI (Brazil) and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
  
 <hr>
@@ -40,8 +40,8 @@ I'm learning game development in Unity engine. I'm currently working in personal
  
 <br>
  
-<div align="center"> 
- <img <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="Ícone C" title="C"/>
+<div align="center" style="display:inline"> 
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40" alt="Ícone C" title="C"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40" alt="Ícone Java" title="JAVA"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" alt="Ícone Python" title="PYTHON"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="40" height="40" alt="Ícone HTML5" title="HTML5"/>
