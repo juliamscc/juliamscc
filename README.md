@@ -1,43 +1,40 @@
- <h3> 👋 Hello World! </h3>
- Olá, me chamo Júlia! Boas vindas ao meu perfil GitHub! :D <br>
- Hi there, I'm Júlia! Welcome to my GitHub profile! :D
- 
- <div align="center">
-   <img src="junya.gif" target="_blank" width="300" height="300" alt="Gif moça digitando">
- </div>
- 
-<hr>
- 
- <h3>😃 Sobre mim:</h3>
-Tenho 24 anos, moro em Floriano - PI e sou bacharel em Ciências da Computação pela Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Estou sempre procurando aprender e me aprimorar afinal, é importante que sempre busquemos conhecimento! 👽
+<div align="center">
+  <img src="gifs/helloworld.gif" target="_blank" height="300" alt="Gif moça digitando">
+</div>
 
  <br>
+ <br>
  
- <h3>😃 About me:</h3>
- I'm 24 years old, I live in Floriano - PI (Brazil) and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
+<div align="center">
+  <img src="gifs/about-me.gif" target="_blank" height="90" alt="About me">
+</div>
  
-<hr>
+ Olá, boas vindas ao meu perfil GitHub! Me chamo Júlia, tenho 24 anos e sou bacharel em Ciências da Computação pela Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Estou sempre procurando aprender e me aprimorar afinal, é importante que sempre busquemos conhecimento! 👽
+
+ <br>
+
+ Hi there, welcome to my GitHub profile! I'm Júlia, I'm 24 years old and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
  
-<div> 
- <h3> 💻 Atualmente trabalho com: </h3>
-</div> 
+<br>
+<br>
+
+ <div align="center">
+  <img src="gifs/current-work.gif" target="_blank" height="90" alt="Current work">
+</div>
   
 Estou estudando desenvolvimento de jogos na Unity. Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades e explorar novos horizontes!
 
 <br>
 
-<h3>💻 I currently work with:</h3>
 I'm learning game development in Unity engine. I'm currently working in personal projects to improve my habilities and explore new possibilities!
 
-
-<hr>
- 
-<div align="center">
-  <h3> 📖 Já estudei sobre / I've studied about: </h3>
-</div>
- 
 <br>
- 
+<br>
+
+<div align="center">
+  <img src="gifs/knowledge.gif" target="_blank" height="90" alt="Knowledge">
+</div>
+  
 <div align="center"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="Ícone C" title="C"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" height="40" alt="Ícone Java" title="JAVA"/>
@@ -59,13 +56,12 @@ I'm learning game development in Unity engine. I'm currently working in personal
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" height="40" alt="Ícone Unity" title="UNITY"/>
 </div>
 
-<hr>
- 
-<div align="center"> 
- <h3> 👤 Contato / Contact: </h3>
-</div> 
- 
-  <br>
+<br>
+<br>
+
+<div align="center">
+  <img src="gifs/contact.gif" target="_blank" height="90" alt="Contact">
+</div>
   
 <div align="center">
  <a href="https://www.linkedin.com/in/julia-meneses/" target="_blank">
@@ -82,7 +78,12 @@ I'm learning game development in Unity engine. I'm currently working in personal
  </a>
 </div> 
 
-<hr>
+<br>
+<br>
+
+<div align="center">
+  <img src="gifs/stats.gif" target="_blank" height="90" alt="Stats">
+</div>
 
  <p align="center">
   <a href="https://github.com/julliamscc">
