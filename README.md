@@ -18,6 +18,7 @@
 <br>
 <br>
 
+<!--
  <div align="center">
   <img src="gifs/current-work.gif" target="_blank" height="90" alt="Current work">
 </div>
@@ -34,6 +35,7 @@ I'm learning game development in Unity engine. I'm currently working in personal
 <div align="center">
   <img src="gifs/knowledge.gif" target="_blank" height="90" alt="Knowledge">
 </div>
+-->
   
 <div align="center"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="Ícone C" title="C"/>
@@ -55,6 +57,18 @@ I'm learning game development in Unity engine. I'm currently working in personal
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" height="40" alt="Ícone C++" title="C++"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-plain.svg" height="40" alt="Ícone Unity" title="UNITY"/>
 </div>
+
+<br>
+<br>
+<div align="center">
+  <img src="gifs/current-work.gif" target="_blank" height="90" alt="Current work">
+</div>
+  
+Estou estudando desenvolvimento de jogos na Unity. Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades e explorar novos horizontes!
+
+<br>
+
+I'm learning game development in Unity engine. I'm currently working in personal projects to improve my habilities and explore new possibilities!
 
 <br>
 <br>
@@ -81,7 +95,7 @@ I'm learning game development in Unity engine. I'm currently working in personal
 <br>
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <img src="gifs/stats.gif" target="_blank" height="90" alt="Stats">
 </div>
 
@@ -90,4 +104,4 @@ I'm learning game development in Unity engine. I'm currently working in personal
    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=juliamscc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=juliamscc&layout=compact&langs_count=8&theme=dracula"/>
   </a>
- </p>
+ </p> -->
