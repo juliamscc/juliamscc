@@ -8,34 +8,20 @@
 <div align="center">
   <img src="gifs/about-me.gif" target="_blank" height="90" alt="About me">
 </div>
- 
- Olá, boas vindas ao meu perfil GitHub! Me chamo Júlia, tenho 24 anos e sou bacharel em Ciências da Computação pela Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Estou sempre procurando aprender e me aprimorar afinal, é importante que sempre busquemos conhecimento! 👽
+
+ Olá, boas vindas ao meu perfil GitHub! Me chamo Júlia, tenho 25 anos e sou bacharel em Ciências da Computação pela Universidade Estadual do Piauí. Procurando bugs desde 2020... Além de programação, sou apaixonada por cálculo, lógica e design. Estou sempre procurando aprender e me aprimorar afinal, é importante que sempre busquemos conhecimento! 👽
 
  <br>
 
- Hi there, welcome to my GitHub profile! I'm Júlia, I'm 24 years old and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
+ Hi there, welcome to my GitHub profile! I'm Júlia, I'm 25 years old and I have a  bachelor´s degree in Computer Science from the State University of Piauí. Looking for bugs since 2020... In addition to programming, I'm passionate about calculus, logic and design. I'm always looking to learn and improve after all, it is important that we always seek knowledge!
  
-<br>
-<br>
-
-<!--
- <div align="center">
-  <img src="gifs/current-work.gif" target="_blank" height="90" alt="Current work">
-</div>
-  
-Estou estudando desenvolvimento de jogos na Unity. Atualmente estou trabalhando em projetos pessoais para aprimorar minhas habilidades e explorar novos horizontes!
-
-<br>
-
-I'm learning game development in Unity engine. I'm currently working in personal projects to improve my habilities and explore new possibilities!
-
 <br>
 <br>
 
 <div align="center">
   <img src="gifs/knowledge.gif" target="_blank" height="90" alt="Knowledge">
 </div>
--->
+
   
 <div align="center"> 
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" height="40" alt="Ícone C" title="C"/>
@@ -60,6 +46,7 @@ I'm learning game development in Unity engine. I'm currently working in personal
 
 <br>
 <br>
+
 <div align="center">
   <img src="gifs/current-work.gif" target="_blank" height="90" alt="Current work">
 </div>
